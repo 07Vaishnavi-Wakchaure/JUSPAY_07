@@ -38,9 +38,6 @@ Ensure you have the following installed:
   npm run dev
 ```
 
-### Your app will be up and running at localhost:5173
-
-**To Check Same implementation using Google Blockly Please got to this url - https://github.com/ksanjeeb/MIT-Scratch-Blockly** 
 
 
 For questions or feedback, please reach out at code.sanjeeb@gmail.com.
