@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 
 
-For questions or feedback, please reach out at code.sanjeeb@gmail.com.
+
 
 
 
